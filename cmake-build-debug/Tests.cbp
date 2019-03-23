@@ -8,38 +8,38 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="/Users/antonin/CLionProjects/Tests/Tests/cmake-build-debug"/>
+				<Option working_dir="/Users/antonin/CLionProjects/Tests/Tests/TestingGrounds/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/antonin/CLionProjects/Tests/Tests/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/antonin/CLionProjects/Tests/Tests/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/antonin/CLionProjects/Tests/Tests/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/antonin/CLionProjects/Tests/Tests/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/antonin/CLionProjects/Tests/Tests/TestingGrounds/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/antonin/CLionProjects/Tests/Tests/TestingGrounds/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/antonin/CLionProjects/Tests/Tests/TestingGrounds/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/antonin/CLionProjects/Tests/Tests/TestingGrounds/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="/Users/antonin/CLionProjects/Tests/Tests/cmake-build-debug"/>
+				<Option working_dir="/Users/antonin/CLionProjects/Tests/Tests/TestingGrounds/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/antonin/CLionProjects/Tests/Tests/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/antonin/CLionProjects/Tests/Tests/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/antonin/CLionProjects/Tests/Tests/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/antonin/CLionProjects/Tests/Tests/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/antonin/CLionProjects/Tests/Tests/TestingGrounds/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/antonin/CLionProjects/Tests/Tests/TestingGrounds/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/antonin/CLionProjects/Tests/Tests/TestingGrounds/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/antonin/CLionProjects/Tests/Tests/TestingGrounds/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="/Users/antonin/CLionProjects/Tests/Tests/cmake-build-debug"/>
+				<Option working_dir="/Users/antonin/CLionProjects/Tests/Tests/TestingGrounds/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/antonin/CLionProjects/Tests/Tests/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/antonin/CLionProjects/Tests/Tests/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/antonin/CLionProjects/Tests/Tests/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/antonin/CLionProjects/Tests/Tests/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/antonin/CLionProjects/Tests/Tests/TestingGrounds/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/antonin/CLionProjects/Tests/Tests/TestingGrounds/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/antonin/CLionProjects/Tests/Tests/TestingGrounds/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/antonin/CLionProjects/Tests/Tests/TestingGrounds/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="Tests">
-				<Option output="/Users/antonin/CLionProjects/Tests/Tests/cmake-build-debug/Tests" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/antonin/CLionProjects/Tests/Tests/cmake-build-debug"/>
+				<Option output="/Users/antonin/CLionProjects/Tests/Tests/TestingGrounds/cmake-build-debug/Tests" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/antonin/CLionProjects/Tests/Tests/TestingGrounds/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -52,15 +52,15 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/antonin/CLionProjects/Tests/Tests/cmake-build-debug/Makefile&quot;  VERBOSE=1 Tests"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/antonin/CLionProjects/Tests/Tests/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/antonin/CLionProjects/Tests/Tests/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/antonin/CLionProjects/Tests/Tests/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/antonin/CLionProjects/Tests/Tests/TestingGrounds/cmake-build-debug/Makefile&quot;  VERBOSE=1 Tests"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/antonin/CLionProjects/Tests/Tests/TestingGrounds/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/antonin/CLionProjects/Tests/Tests/TestingGrounds/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/antonin/CLionProjects/Tests/Tests/TestingGrounds/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="Tests/fast">
-				<Option output="/Users/antonin/CLionProjects/Tests/Tests/cmake-build-debug/Tests" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/antonin/CLionProjects/Tests/Tests/cmake-build-debug"/>
+				<Option output="/Users/antonin/CLionProjects/Tests/Tests/TestingGrounds/cmake-build-debug/Tests" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/antonin/CLionProjects/Tests/Tests/TestingGrounds/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -73,38 +73,38 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/antonin/CLionProjects/Tests/Tests/cmake-build-debug/Makefile&quot;  VERBOSE=1 Tests/fast"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/antonin/CLionProjects/Tests/Tests/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/antonin/CLionProjects/Tests/Tests/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/antonin/CLionProjects/Tests/Tests/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/antonin/CLionProjects/Tests/Tests/TestingGrounds/cmake-build-debug/Makefile&quot;  VERBOSE=1 Tests/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/antonin/CLionProjects/Tests/Tests/TestingGrounds/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/antonin/CLionProjects/Tests/Tests/TestingGrounds/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/antonin/CLionProjects/Tests/Tests/TestingGrounds/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/antonin/CLionProjects/Tests/Tests/DataStructuresAndAlgorithms/Chapter3/GameEntry.cpp">
+		<Unit filename="/Users/antonin/CLionProjects/Tests/Tests/TestingGrounds/DataStructuresAndAlgorithms/Chapter3/GameEntry.cpp">
 			<Option target="Tests"/>
 		</Unit>
-		<Unit filename="/Users/antonin/CLionProjects/Tests/Tests/DataStructuresAndAlgorithms/Chapter3/GameEntry.hpp">
+		<Unit filename="/Users/antonin/CLionProjects/Tests/Tests/TestingGrounds/DataStructuresAndAlgorithms/Chapter3/GameEntry.hpp">
 			<Option target="Tests"/>
 		</Unit>
-		<Unit filename="/Users/antonin/CLionProjects/Tests/Tests/DataStructuresAndAlgorithms/Chapter3/RuntimeException.hpp">
+		<Unit filename="/Users/antonin/CLionProjects/Tests/Tests/TestingGrounds/DataStructuresAndAlgorithms/Chapter3/RuntimeException.hpp">
 			<Option target="Tests"/>
 		</Unit>
-		<Unit filename="/Users/antonin/CLionProjects/Tests/Tests/DataStructuresAndAlgorithms/Chapter3/ScoreBoard.cpp">
+		<Unit filename="/Users/antonin/CLionProjects/Tests/Tests/TestingGrounds/DataStructuresAndAlgorithms/Chapter3/ScoreBoard.cpp">
 			<Option target="Tests"/>
 		</Unit>
-		<Unit filename="/Users/antonin/CLionProjects/Tests/Tests/DataStructuresAndAlgorithms/Chapter3/ScoreBoard.hpp">
+		<Unit filename="/Users/antonin/CLionProjects/Tests/Tests/TestingGrounds/DataStructuresAndAlgorithms/Chapter3/ScoreBoard.hpp">
 			<Option target="Tests"/>
 		</Unit>
-		<Unit filename="/Users/antonin/CLionProjects/Tests/Tests/DataStructuresAndAlgorithms/Chapter3/main3.cpp">
+		<Unit filename="/Users/antonin/CLionProjects/Tests/Tests/TestingGrounds/DataStructuresAndAlgorithms/Chapter3/main3.cpp">
 			<Option target="Tests"/>
 		</Unit>
-		<Unit filename="/Users/antonin/CLionProjects/Tests/Tests/SortZeros.cpp">
+		<Unit filename="/Users/antonin/CLionProjects/Tests/Tests/TestingGrounds/SortZeros.cpp">
 			<Option target="Tests"/>
 		</Unit>
-		<Unit filename="/Users/antonin/CLionProjects/Tests/Tests/main.cpp">
+		<Unit filename="/Users/antonin/CLionProjects/Tests/Tests/TestingGrounds/main.cpp">
 			<Option target="Tests"/>
 		</Unit>
-		<Unit filename="/Users/antonin/CLionProjects/Tests/Tests/CMakeLists.txt">
+		<Unit filename="/Users/antonin/CLionProjects/Tests/Tests/TestingGrounds/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>
