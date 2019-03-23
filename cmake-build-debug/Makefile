@@ -231,6 +231,33 @@ DataStructuresAndAlgorithms/Chapter3/main3.cpp.s:
 	$(MAKE) -f CMakeFiles/Tests.dir/build.make CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/main3.cpp.s
 .PHONY : DataStructuresAndAlgorithms/Chapter3/main3.cpp.s
 
+Notes.o: Notes.cpp.o
+
+.PHONY : Notes.o
+
+# target to build an object file
+Notes.cpp.o:
+	$(MAKE) -f CMakeFiles/Tests.dir/build.make CMakeFiles/Tests.dir/Notes.cpp.o
+.PHONY : Notes.cpp.o
+
+Notes.i: Notes.cpp.i
+
+.PHONY : Notes.i
+
+# target to preprocess a source file
+Notes.cpp.i:
+	$(MAKE) -f CMakeFiles/Tests.dir/build.make CMakeFiles/Tests.dir/Notes.cpp.i
+.PHONY : Notes.cpp.i
+
+Notes.s: Notes.cpp.s
+
+.PHONY : Notes.s
+
+# target to generate assembly for a file
+Notes.cpp.s:
+	$(MAKE) -f CMakeFiles/Tests.dir/build.make CMakeFiles/Tests.dir/Notes.cpp.s
+.PHONY : Notes.cpp.s
+
 SortZeros.o: SortZeros.cpp.o
 
 .PHONY : SortZeros.o
@@ -306,6 +333,9 @@ help:
 	@echo "... DataStructuresAndAlgorithms/Chapter3/main3.o"
 	@echo "... DataStructuresAndAlgorithms/Chapter3/main3.i"
 	@echo "... DataStructuresAndAlgorithms/Chapter3/main3.s"
+	@echo "... Notes.o"
+	@echo "... Notes.i"
+	@echo "... Notes.s"
 	@echo "... SortZeros.o"
 	@echo "... SortZeros.i"
 	@echo "... SortZeros.s"

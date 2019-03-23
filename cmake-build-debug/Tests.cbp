@@ -104,6 +104,9 @@
 		<Unit filename="/Users/antonin/CLionProjects/Tests/Tests/TestingGrounds/DataStructuresAndAlgorithms/Chapter3/main3.cpp">
 			<Option target="Tests"/>
 		</Unit>
+		<Unit filename="/Users/antonin/CLionProjects/Tests/Tests/TestingGrounds/Notes.cpp">
+			<Option target="Tests"/>
+		</Unit>
 		<Unit filename="/Users/antonin/CLionProjects/Tests/Tests/TestingGrounds/SortZeros.cpp">
 			<Option target="Tests"/>
 		</Unit>

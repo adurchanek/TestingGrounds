@@ -3,4 +3,4 @@ project(Tests)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(Tests main.cpp SortZeros.cpp DataStructuresAndAlgorithms/Chapter3/main3.cpp DataStructuresAndAlgorithms/Chapter3/GameEntry.cpp DataStructuresAndAlgorithms/Chapter3/GameEntry.hpp DataStructuresAndAlgorithms/Chapter3/ScoreBoard.cpp DataStructuresAndAlgorithms/Chapter3/ScoreBoard.hpp DataStructuresAndAlgorithms/Chapter3/RuntimeException.hpp DataStructuresAndAlgorithms/Chapter3/OutOfBoundsException.cpp DataStructuresAndAlgorithms/Chapter3/OutOfBoundsException.hpp)
+add_executable(Tests main.cpp SortZeros.cpp DataStructuresAndAlgorithms/Chapter3/main3.cpp DataStructuresAndAlgorithms/Chapter3/GameEntry.cpp DataStructuresAndAlgorithms/Chapter3/GameEntry.hpp DataStructuresAndAlgorithms/Chapter3/ScoreBoard.cpp DataStructuresAndAlgorithms/Chapter3/ScoreBoard.hpp DataStructuresAndAlgorithms/Chapter3/RuntimeException.hpp DataStructuresAndAlgorithms/Chapter3/OutOfBoundsException.hpp Notes.cpp)
