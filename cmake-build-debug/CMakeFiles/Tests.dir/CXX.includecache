@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/antonin/CLionProjects/Tests/Tests/DataStructuresAndAlgorithms/Chapter3/GameEntry.cpp
+GameEntry.hpp
+/Users/antonin/CLionProjects/Tests/Tests/DataStructuresAndAlgorithms/Chapter3/GameEntry.hpp
+
+/Users/antonin/CLionProjects/Tests/Tests/DataStructuresAndAlgorithms/Chapter3/GameEntry.hpp
+iostream
+-
+
