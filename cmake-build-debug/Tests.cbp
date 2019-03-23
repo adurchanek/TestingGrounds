@@ -86,6 +86,12 @@
 		<Unit filename="/Users/antonin/CLionProjects/Tests/Tests/TestingGrounds/DataStructuresAndAlgorithms/Chapter3/GameEntry.hpp">
 			<Option target="Tests"/>
 		</Unit>
+		<Unit filename="/Users/antonin/CLionProjects/Tests/Tests/TestingGrounds/DataStructuresAndAlgorithms/Chapter3/OutOfBoundsException.cpp">
+			<Option target="Tests"/>
+		</Unit>
+		<Unit filename="/Users/antonin/CLionProjects/Tests/Tests/TestingGrounds/DataStructuresAndAlgorithms/Chapter3/OutOfBoundsException.hpp">
+			<Option target="Tests"/>
+		</Unit>
 		<Unit filename="/Users/antonin/CLionProjects/Tests/Tests/TestingGrounds/DataStructuresAndAlgorithms/Chapter3/RuntimeException.hpp">
 			<Option target="Tests"/>
 		</Unit>

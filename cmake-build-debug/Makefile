@@ -150,6 +150,33 @@ DataStructuresAndAlgorithms/Chapter3/GameEntry.cpp.s:
 	$(MAKE) -f CMakeFiles/Tests.dir/build.make CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/GameEntry.cpp.s
 .PHONY : DataStructuresAndAlgorithms/Chapter3/GameEntry.cpp.s
 
+DataStructuresAndAlgorithms/Chapter3/OutOfBoundsException.o: DataStructuresAndAlgorithms/Chapter3/OutOfBoundsException.cpp.o
+
+.PHONY : DataStructuresAndAlgorithms/Chapter3/OutOfBoundsException.o
+
+# target to build an object file
+DataStructuresAndAlgorithms/Chapter3/OutOfBoundsException.cpp.o:
+	$(MAKE) -f CMakeFiles/Tests.dir/build.make CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/OutOfBoundsException.cpp.o
+.PHONY : DataStructuresAndAlgorithms/Chapter3/OutOfBoundsException.cpp.o
+
+DataStructuresAndAlgorithms/Chapter3/OutOfBoundsException.i: DataStructuresAndAlgorithms/Chapter3/OutOfBoundsException.cpp.i
+
+.PHONY : DataStructuresAndAlgorithms/Chapter3/OutOfBoundsException.i
+
+# target to preprocess a source file
+DataStructuresAndAlgorithms/Chapter3/OutOfBoundsException.cpp.i:
+	$(MAKE) -f CMakeFiles/Tests.dir/build.make CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/OutOfBoundsException.cpp.i
+.PHONY : DataStructuresAndAlgorithms/Chapter3/OutOfBoundsException.cpp.i
+
+DataStructuresAndAlgorithms/Chapter3/OutOfBoundsException.s: DataStructuresAndAlgorithms/Chapter3/OutOfBoundsException.cpp.s
+
+.PHONY : DataStructuresAndAlgorithms/Chapter3/OutOfBoundsException.s
+
+# target to generate assembly for a file
+DataStructuresAndAlgorithms/Chapter3/OutOfBoundsException.cpp.s:
+	$(MAKE) -f CMakeFiles/Tests.dir/build.make CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/OutOfBoundsException.cpp.s
+.PHONY : DataStructuresAndAlgorithms/Chapter3/OutOfBoundsException.cpp.s
+
 DataStructuresAndAlgorithms/Chapter3/ScoreBoard.o: DataStructuresAndAlgorithms/Chapter3/ScoreBoard.cpp.o
 
 .PHONY : DataStructuresAndAlgorithms/Chapter3/ScoreBoard.o
@@ -270,6 +297,9 @@ help:
 	@echo "... DataStructuresAndAlgorithms/Chapter3/GameEntry.o"
 	@echo "... DataStructuresAndAlgorithms/Chapter3/GameEntry.i"
 	@echo "... DataStructuresAndAlgorithms/Chapter3/GameEntry.s"
+	@echo "... DataStructuresAndAlgorithms/Chapter3/OutOfBoundsException.o"
+	@echo "... DataStructuresAndAlgorithms/Chapter3/OutOfBoundsException.i"
+	@echo "... DataStructuresAndAlgorithms/Chapter3/OutOfBoundsException.s"
 	@echo "... DataStructuresAndAlgorithms/Chapter3/ScoreBoard.o"
 	@echo "... DataStructuresAndAlgorithms/Chapter3/ScoreBoard.i"
 	@echo "... DataStructuresAndAlgorithms/Chapter3/ScoreBoard.s"

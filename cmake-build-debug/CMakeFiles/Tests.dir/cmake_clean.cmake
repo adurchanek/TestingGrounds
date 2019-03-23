@@ -4,6 +4,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/main3.cpp.o"
   "CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/GameEntry.cpp.o"
   "CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/ScoreBoard.cpp.o"
+  "CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/OutOfBoundsException.cpp.o"
   "Tests.pdb"
   "Tests"
 )
