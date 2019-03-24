@@ -7,8 +7,20 @@
 
 
 
-GameEntry::GameEntry(const std::string & name, int score = 0)
-{
 
+
+std::string GameEntry::getName() const
+{
+    return name;
+}
+
+int GameEntry::getScore() const
+{
+    return score;
+}
+
+GameEntry::GameEntry(const std::string &name, int score)
+: name(name), score(score)
+{
 
 }

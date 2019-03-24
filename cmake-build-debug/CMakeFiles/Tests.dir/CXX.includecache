@@ -6,13 +6,13 @@
 
 #IncludeRegexTransform: 
 
-/Users/antonin/CLionProjects/Tests/Tests/TestingGrounds/DataStructuresAndAlgorithms/Chapter3/GameEntry.cpp
-GameEntry.hpp
-/Users/antonin/CLionProjects/Tests/Tests/TestingGrounds/DataStructuresAndAlgorithms/Chapter3/GameEntry.hpp
-
 /Users/antonin/CLionProjects/Tests/Tests/TestingGrounds/DataStructuresAndAlgorithms/Chapter3/GameEntry.hpp
 iostream
 -
+
+/Users/antonin/CLionProjects/Tests/Tests/TestingGrounds/DataStructuresAndAlgorithms/Chapter3/OutOfBoundsException.hpp
+RuntimeException.hpp
+/Users/antonin/CLionProjects/Tests/Tests/TestingGrounds/DataStructuresAndAlgorithms/Chapter3/RuntimeException.hpp
 
 /Users/antonin/CLionProjects/Tests/Tests/TestingGrounds/DataStructuresAndAlgorithms/Chapter3/RuntimeException.hpp
 string
@@ -27,14 +27,6 @@ GameEntry.hpp
 /Users/antonin/CLionProjects/Tests/Tests/TestingGrounds/DataStructuresAndAlgorithms/Chapter3/GameEntry.hpp
 RuntimeException.hpp
 /Users/antonin/CLionProjects/Tests/Tests/TestingGrounds/DataStructuresAndAlgorithms/Chapter3/RuntimeException.hpp
-
-/Users/antonin/CLionProjects/Tests/Tests/TestingGrounds/DataStructuresAndAlgorithms/Chapter3/main3.cpp
-GameEntry.hpp
-/Users/antonin/CLionProjects/Tests/Tests/TestingGrounds/DataStructuresAndAlgorithms/Chapter3/GameEntry.hpp
-iostream
-/Users/antonin/CLionProjects/Tests/Tests/TestingGrounds/DataStructuresAndAlgorithms/Chapter3/iostream
-
-/Users/antonin/CLionProjects/Tests/Tests/TestingGrounds/SortZeros.cpp
-
-/Users/antonin/CLionProjects/Tests/Tests/TestingGrounds/main.cpp
+OutOfBoundsException.hpp
+/Users/antonin/CLionProjects/Tests/Tests/TestingGrounds/DataStructuresAndAlgorithms/Chapter3/OutOfBoundsException.hpp
 

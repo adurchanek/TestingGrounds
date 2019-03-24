@@ -6,12 +6,18 @@ CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/GameEntry.cpp.o
  /Users/antonin/CLionProjects/Tests/Tests/TestingGrounds/DataStructuresAndAlgorithms/Chapter3/GameEntry.hpp
 CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/ScoreBoard.cpp.o
  /Users/antonin/CLionProjects/Tests/Tests/TestingGrounds/DataStructuresAndAlgorithms/Chapter3/GameEntry.hpp
+ /Users/antonin/CLionProjects/Tests/Tests/TestingGrounds/DataStructuresAndAlgorithms/Chapter3/OutOfBoundsException.hpp
  /Users/antonin/CLionProjects/Tests/Tests/TestingGrounds/DataStructuresAndAlgorithms/Chapter3/RuntimeException.hpp
  /Users/antonin/CLionProjects/Tests/Tests/TestingGrounds/DataStructuresAndAlgorithms/Chapter3/ScoreBoard.cpp
  /Users/antonin/CLionProjects/Tests/Tests/TestingGrounds/DataStructuresAndAlgorithms/Chapter3/ScoreBoard.hpp
 CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/main3.cpp.o
  /Users/antonin/CLionProjects/Tests/Tests/TestingGrounds/DataStructuresAndAlgorithms/Chapter3/GameEntry.hpp
+ /Users/antonin/CLionProjects/Tests/Tests/TestingGrounds/DataStructuresAndAlgorithms/Chapter3/OutOfBoundsException.hpp
+ /Users/antonin/CLionProjects/Tests/Tests/TestingGrounds/DataStructuresAndAlgorithms/Chapter3/RuntimeException.hpp
+ /Users/antonin/CLionProjects/Tests/Tests/TestingGrounds/DataStructuresAndAlgorithms/Chapter3/ScoreBoard.hpp
  /Users/antonin/CLionProjects/Tests/Tests/TestingGrounds/DataStructuresAndAlgorithms/Chapter3/main3.cpp
+CMakeFiles/Tests.dir/Notes.cpp.o
+ /Users/antonin/CLionProjects/Tests/Tests/TestingGrounds/Notes.cpp
 CMakeFiles/Tests.dir/SortZeros.cpp.o
  /Users/antonin/CLionProjects/Tests/Tests/TestingGrounds/SortZeros.cpp
 CMakeFiles/Tests.dir/main.cpp.o

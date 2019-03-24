@@ -7,6 +7,7 @@
 
 #include "GameEntry.hpp"
 #include "RuntimeException.hpp"
+#include "OutOfBoundsException.hpp"
 
 
 class ScoreBoard
@@ -16,10 +17,17 @@ public:
 
 
 
-    void add(GameEntry e, int i);
-    void remove( int i);
+    void add(const GameEntry &e);
+    GameEntry remove( int i);
     ~ScoreBoard();
-    ScoreBoard(int maxEnties = 10);
+
+    explicit ScoreBoard(int maxEntries = 10);
+
+    int getMaxEntries();
+    int getNumEntries();
+    void printEntries();
+    GameEntry getGameEntry(int i) const;
+
 
 
 

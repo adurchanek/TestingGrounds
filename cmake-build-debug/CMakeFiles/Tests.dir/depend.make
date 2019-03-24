@@ -5,12 +5,18 @@ CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/GameEntry.cpp.o: ../Da
 CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/GameEntry.cpp.o: ../DataStructuresAndAlgorithms/Chapter3/GameEntry.hpp
 
 CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/ScoreBoard.cpp.o: ../DataStructuresAndAlgorithms/Chapter3/GameEntry.hpp
+CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/ScoreBoard.cpp.o: ../DataStructuresAndAlgorithms/Chapter3/OutOfBoundsException.hpp
 CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/ScoreBoard.cpp.o: ../DataStructuresAndAlgorithms/Chapter3/RuntimeException.hpp
 CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/ScoreBoard.cpp.o: ../DataStructuresAndAlgorithms/Chapter3/ScoreBoard.cpp
 CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/ScoreBoard.cpp.o: ../DataStructuresAndAlgorithms/Chapter3/ScoreBoard.hpp
 
 CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/main3.cpp.o: ../DataStructuresAndAlgorithms/Chapter3/GameEntry.hpp
+CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/main3.cpp.o: ../DataStructuresAndAlgorithms/Chapter3/OutOfBoundsException.hpp
+CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/main3.cpp.o: ../DataStructuresAndAlgorithms/Chapter3/RuntimeException.hpp
+CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/main3.cpp.o: ../DataStructuresAndAlgorithms/Chapter3/ScoreBoard.hpp
 CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/main3.cpp.o: ../DataStructuresAndAlgorithms/Chapter3/main3.cpp
+
+CMakeFiles/Tests.dir/Notes.cpp.o: ../Notes.cpp
 
 CMakeFiles/Tests.dir/SortZeros.cpp.o: ../SortZeros.cpp
 

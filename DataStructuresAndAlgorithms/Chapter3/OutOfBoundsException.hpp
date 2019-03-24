@@ -5,9 +5,13 @@
 #ifndef TESTS_OUTOFBOUNDSEXCEPTION_HPP
 #define TESTS_OUTOFBOUNDSEXCEPTION_HPP
 
-
-class OutOfBoundsException
+#include "RuntimeException.hpp"
+class OutOfBoundsException : public RuntimeException
 {
+
+public:
+    OutOfBoundsException(std::string message)
+    : RuntimeException(message) {}
 
 };
 

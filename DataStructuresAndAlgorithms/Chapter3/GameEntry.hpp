@@ -16,7 +16,9 @@ class GameEntry
 public:
 
 
-    GameEntry(const std::string & name, int score);
+    GameEntry(const std::string & name = "", int score = 0);
+    int getScore() const;
+    std::string getName() const;
 
 
 
