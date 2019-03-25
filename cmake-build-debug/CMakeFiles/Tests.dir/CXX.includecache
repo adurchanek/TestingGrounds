@@ -6,27 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/Users/antonin/CLionProjects/Tests/Tests/TestingGrounds/DataStructuresAndAlgorithms/Chapter3/GameEntry.hpp
+/Users/antonin/CLionProjects/Tests/Tests/TestingGrounds/DataStructuresAndAlgorithms/Chapter3/InsertionSort/main.cpp
 iostream
 -
-
-/Users/antonin/CLionProjects/Tests/Tests/TestingGrounds/DataStructuresAndAlgorithms/Chapter3/OutOfBoundsException.hpp
-RuntimeException.hpp
-/Users/antonin/CLionProjects/Tests/Tests/TestingGrounds/DataStructuresAndAlgorithms/Chapter3/RuntimeException.hpp
-
-/Users/antonin/CLionProjects/Tests/Tests/TestingGrounds/DataStructuresAndAlgorithms/Chapter3/RuntimeException.hpp
-string
--
-
-/Users/antonin/CLionProjects/Tests/Tests/TestingGrounds/DataStructuresAndAlgorithms/Chapter3/ScoreBoard.cpp
-ScoreBoard.hpp
-/Users/antonin/CLionProjects/Tests/Tests/TestingGrounds/DataStructuresAndAlgorithms/Chapter3/ScoreBoard.hpp
-
-/Users/antonin/CLionProjects/Tests/Tests/TestingGrounds/DataStructuresAndAlgorithms/Chapter3/ScoreBoard.hpp
-GameEntry.hpp
-/Users/antonin/CLionProjects/Tests/Tests/TestingGrounds/DataStructuresAndAlgorithms/Chapter3/GameEntry.hpp
-RuntimeException.hpp
-/Users/antonin/CLionProjects/Tests/Tests/TestingGrounds/DataStructuresAndAlgorithms/Chapter3/RuntimeException.hpp
-OutOfBoundsException.hpp
-/Users/antonin/CLionProjects/Tests/Tests/TestingGrounds/DataStructuresAndAlgorithms/Chapter3/OutOfBoundsException.hpp
 

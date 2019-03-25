@@ -123,86 +123,113 @@ Tests/fast:
 	$(MAKE) -f CMakeFiles/Tests.dir/build.make CMakeFiles/Tests.dir/build
 .PHONY : Tests/fast
 
-DataStructuresAndAlgorithms/Chapter3/GameEntry.o: DataStructuresAndAlgorithms/Chapter3/GameEntry.cpp.o
+DataStructuresAndAlgorithms/Chapter3/InsertionSort/main.o: DataStructuresAndAlgorithms/Chapter3/InsertionSort/main.cpp.o
 
-.PHONY : DataStructuresAndAlgorithms/Chapter3/GameEntry.o
-
-# target to build an object file
-DataStructuresAndAlgorithms/Chapter3/GameEntry.cpp.o:
-	$(MAKE) -f CMakeFiles/Tests.dir/build.make CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/GameEntry.cpp.o
-.PHONY : DataStructuresAndAlgorithms/Chapter3/GameEntry.cpp.o
-
-DataStructuresAndAlgorithms/Chapter3/GameEntry.i: DataStructuresAndAlgorithms/Chapter3/GameEntry.cpp.i
-
-.PHONY : DataStructuresAndAlgorithms/Chapter3/GameEntry.i
-
-# target to preprocess a source file
-DataStructuresAndAlgorithms/Chapter3/GameEntry.cpp.i:
-	$(MAKE) -f CMakeFiles/Tests.dir/build.make CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/GameEntry.cpp.i
-.PHONY : DataStructuresAndAlgorithms/Chapter3/GameEntry.cpp.i
-
-DataStructuresAndAlgorithms/Chapter3/GameEntry.s: DataStructuresAndAlgorithms/Chapter3/GameEntry.cpp.s
-
-.PHONY : DataStructuresAndAlgorithms/Chapter3/GameEntry.s
-
-# target to generate assembly for a file
-DataStructuresAndAlgorithms/Chapter3/GameEntry.cpp.s:
-	$(MAKE) -f CMakeFiles/Tests.dir/build.make CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/GameEntry.cpp.s
-.PHONY : DataStructuresAndAlgorithms/Chapter3/GameEntry.cpp.s
-
-DataStructuresAndAlgorithms/Chapter3/ScoreBoard.o: DataStructuresAndAlgorithms/Chapter3/ScoreBoard.cpp.o
-
-.PHONY : DataStructuresAndAlgorithms/Chapter3/ScoreBoard.o
+.PHONY : DataStructuresAndAlgorithms/Chapter3/InsertionSort/main.o
 
 # target to build an object file
-DataStructuresAndAlgorithms/Chapter3/ScoreBoard.cpp.o:
-	$(MAKE) -f CMakeFiles/Tests.dir/build.make CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/ScoreBoard.cpp.o
-.PHONY : DataStructuresAndAlgorithms/Chapter3/ScoreBoard.cpp.o
+DataStructuresAndAlgorithms/Chapter3/InsertionSort/main.cpp.o:
+	$(MAKE) -f CMakeFiles/Tests.dir/build.make CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/InsertionSort/main.cpp.o
+.PHONY : DataStructuresAndAlgorithms/Chapter3/InsertionSort/main.cpp.o
 
-DataStructuresAndAlgorithms/Chapter3/ScoreBoard.i: DataStructuresAndAlgorithms/Chapter3/ScoreBoard.cpp.i
+DataStructuresAndAlgorithms/Chapter3/InsertionSort/main.i: DataStructuresAndAlgorithms/Chapter3/InsertionSort/main.cpp.i
 
-.PHONY : DataStructuresAndAlgorithms/Chapter3/ScoreBoard.i
+.PHONY : DataStructuresAndAlgorithms/Chapter3/InsertionSort/main.i
 
 # target to preprocess a source file
-DataStructuresAndAlgorithms/Chapter3/ScoreBoard.cpp.i:
-	$(MAKE) -f CMakeFiles/Tests.dir/build.make CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/ScoreBoard.cpp.i
-.PHONY : DataStructuresAndAlgorithms/Chapter3/ScoreBoard.cpp.i
+DataStructuresAndAlgorithms/Chapter3/InsertionSort/main.cpp.i:
+	$(MAKE) -f CMakeFiles/Tests.dir/build.make CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/InsertionSort/main.cpp.i
+.PHONY : DataStructuresAndAlgorithms/Chapter3/InsertionSort/main.cpp.i
 
-DataStructuresAndAlgorithms/Chapter3/ScoreBoard.s: DataStructuresAndAlgorithms/Chapter3/ScoreBoard.cpp.s
+DataStructuresAndAlgorithms/Chapter3/InsertionSort/main.s: DataStructuresAndAlgorithms/Chapter3/InsertionSort/main.cpp.s
 
-.PHONY : DataStructuresAndAlgorithms/Chapter3/ScoreBoard.s
+.PHONY : DataStructuresAndAlgorithms/Chapter3/InsertionSort/main.s
 
 # target to generate assembly for a file
-DataStructuresAndAlgorithms/Chapter3/ScoreBoard.cpp.s:
-	$(MAKE) -f CMakeFiles/Tests.dir/build.make CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/ScoreBoard.cpp.s
-.PHONY : DataStructuresAndAlgorithms/Chapter3/ScoreBoard.cpp.s
+DataStructuresAndAlgorithms/Chapter3/InsertionSort/main.cpp.s:
+	$(MAKE) -f CMakeFiles/Tests.dir/build.make CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/InsertionSort/main.cpp.s
+.PHONY : DataStructuresAndAlgorithms/Chapter3/InsertionSort/main.cpp.s
 
-DataStructuresAndAlgorithms/Chapter3/main3.o: DataStructuresAndAlgorithms/Chapter3/main3.cpp.o
+DataStructuresAndAlgorithms/Chapter3/Scoreboard/GameEntry.o: DataStructuresAndAlgorithms/Chapter3/Scoreboard/GameEntry.cpp.o
 
-.PHONY : DataStructuresAndAlgorithms/Chapter3/main3.o
+.PHONY : DataStructuresAndAlgorithms/Chapter3/Scoreboard/GameEntry.o
 
 # target to build an object file
-DataStructuresAndAlgorithms/Chapter3/main3.cpp.o:
-	$(MAKE) -f CMakeFiles/Tests.dir/build.make CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/main3.cpp.o
-.PHONY : DataStructuresAndAlgorithms/Chapter3/main3.cpp.o
+DataStructuresAndAlgorithms/Chapter3/Scoreboard/GameEntry.cpp.o:
+	$(MAKE) -f CMakeFiles/Tests.dir/build.make CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/Scoreboard/GameEntry.cpp.o
+.PHONY : DataStructuresAndAlgorithms/Chapter3/Scoreboard/GameEntry.cpp.o
 
-DataStructuresAndAlgorithms/Chapter3/main3.i: DataStructuresAndAlgorithms/Chapter3/main3.cpp.i
+DataStructuresAndAlgorithms/Chapter3/Scoreboard/GameEntry.i: DataStructuresAndAlgorithms/Chapter3/Scoreboard/GameEntry.cpp.i
 
-.PHONY : DataStructuresAndAlgorithms/Chapter3/main3.i
+.PHONY : DataStructuresAndAlgorithms/Chapter3/Scoreboard/GameEntry.i
 
 # target to preprocess a source file
-DataStructuresAndAlgorithms/Chapter3/main3.cpp.i:
-	$(MAKE) -f CMakeFiles/Tests.dir/build.make CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/main3.cpp.i
-.PHONY : DataStructuresAndAlgorithms/Chapter3/main3.cpp.i
+DataStructuresAndAlgorithms/Chapter3/Scoreboard/GameEntry.cpp.i:
+	$(MAKE) -f CMakeFiles/Tests.dir/build.make CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/Scoreboard/GameEntry.cpp.i
+.PHONY : DataStructuresAndAlgorithms/Chapter3/Scoreboard/GameEntry.cpp.i
 
-DataStructuresAndAlgorithms/Chapter3/main3.s: DataStructuresAndAlgorithms/Chapter3/main3.cpp.s
+DataStructuresAndAlgorithms/Chapter3/Scoreboard/GameEntry.s: DataStructuresAndAlgorithms/Chapter3/Scoreboard/GameEntry.cpp.s
 
-.PHONY : DataStructuresAndAlgorithms/Chapter3/main3.s
+.PHONY : DataStructuresAndAlgorithms/Chapter3/Scoreboard/GameEntry.s
 
 # target to generate assembly for a file
-DataStructuresAndAlgorithms/Chapter3/main3.cpp.s:
-	$(MAKE) -f CMakeFiles/Tests.dir/build.make CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/main3.cpp.s
-.PHONY : DataStructuresAndAlgorithms/Chapter3/main3.cpp.s
+DataStructuresAndAlgorithms/Chapter3/Scoreboard/GameEntry.cpp.s:
+	$(MAKE) -f CMakeFiles/Tests.dir/build.make CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/Scoreboard/GameEntry.cpp.s
+.PHONY : DataStructuresAndAlgorithms/Chapter3/Scoreboard/GameEntry.cpp.s
+
+DataStructuresAndAlgorithms/Chapter3/Scoreboard/ScoreBoard.o: DataStructuresAndAlgorithms/Chapter3/Scoreboard/ScoreBoard.cpp.o
+
+.PHONY : DataStructuresAndAlgorithms/Chapter3/Scoreboard/ScoreBoard.o
+
+# target to build an object file
+DataStructuresAndAlgorithms/Chapter3/Scoreboard/ScoreBoard.cpp.o:
+	$(MAKE) -f CMakeFiles/Tests.dir/build.make CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/Scoreboard/ScoreBoard.cpp.o
+.PHONY : DataStructuresAndAlgorithms/Chapter3/Scoreboard/ScoreBoard.cpp.o
+
+DataStructuresAndAlgorithms/Chapter3/Scoreboard/ScoreBoard.i: DataStructuresAndAlgorithms/Chapter3/Scoreboard/ScoreBoard.cpp.i
+
+.PHONY : DataStructuresAndAlgorithms/Chapter3/Scoreboard/ScoreBoard.i
+
+# target to preprocess a source file
+DataStructuresAndAlgorithms/Chapter3/Scoreboard/ScoreBoard.cpp.i:
+	$(MAKE) -f CMakeFiles/Tests.dir/build.make CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/Scoreboard/ScoreBoard.cpp.i
+.PHONY : DataStructuresAndAlgorithms/Chapter3/Scoreboard/ScoreBoard.cpp.i
+
+DataStructuresAndAlgorithms/Chapter3/Scoreboard/ScoreBoard.s: DataStructuresAndAlgorithms/Chapter3/Scoreboard/ScoreBoard.cpp.s
+
+.PHONY : DataStructuresAndAlgorithms/Chapter3/Scoreboard/ScoreBoard.s
+
+# target to generate assembly for a file
+DataStructuresAndAlgorithms/Chapter3/Scoreboard/ScoreBoard.cpp.s:
+	$(MAKE) -f CMakeFiles/Tests.dir/build.make CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/Scoreboard/ScoreBoard.cpp.s
+.PHONY : DataStructuresAndAlgorithms/Chapter3/Scoreboard/ScoreBoard.cpp.s
+
+DataStructuresAndAlgorithms/Chapter3/Scoreboard/main3.o: DataStructuresAndAlgorithms/Chapter3/Scoreboard/main3.cpp.o
+
+.PHONY : DataStructuresAndAlgorithms/Chapter3/Scoreboard/main3.o
+
+# target to build an object file
+DataStructuresAndAlgorithms/Chapter3/Scoreboard/main3.cpp.o:
+	$(MAKE) -f CMakeFiles/Tests.dir/build.make CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/Scoreboard/main3.cpp.o
+.PHONY : DataStructuresAndAlgorithms/Chapter3/Scoreboard/main3.cpp.o
+
+DataStructuresAndAlgorithms/Chapter3/Scoreboard/main3.i: DataStructuresAndAlgorithms/Chapter3/Scoreboard/main3.cpp.i
+
+.PHONY : DataStructuresAndAlgorithms/Chapter3/Scoreboard/main3.i
+
+# target to preprocess a source file
+DataStructuresAndAlgorithms/Chapter3/Scoreboard/main3.cpp.i:
+	$(MAKE) -f CMakeFiles/Tests.dir/build.make CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/Scoreboard/main3.cpp.i
+.PHONY : DataStructuresAndAlgorithms/Chapter3/Scoreboard/main3.cpp.i
+
+DataStructuresAndAlgorithms/Chapter3/Scoreboard/main3.s: DataStructuresAndAlgorithms/Chapter3/Scoreboard/main3.cpp.s
+
+.PHONY : DataStructuresAndAlgorithms/Chapter3/Scoreboard/main3.s
+
+# target to generate assembly for a file
+DataStructuresAndAlgorithms/Chapter3/Scoreboard/main3.cpp.s:
+	$(MAKE) -f CMakeFiles/Tests.dir/build.make CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/Scoreboard/main3.cpp.s
+.PHONY : DataStructuresAndAlgorithms/Chapter3/Scoreboard/main3.cpp.s
 
 Notes.o: Notes.cpp.o
 
@@ -294,15 +321,18 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... Tests"
-	@echo "... DataStructuresAndAlgorithms/Chapter3/GameEntry.o"
-	@echo "... DataStructuresAndAlgorithms/Chapter3/GameEntry.i"
-	@echo "... DataStructuresAndAlgorithms/Chapter3/GameEntry.s"
-	@echo "... DataStructuresAndAlgorithms/Chapter3/ScoreBoard.o"
-	@echo "... DataStructuresAndAlgorithms/Chapter3/ScoreBoard.i"
-	@echo "... DataStructuresAndAlgorithms/Chapter3/ScoreBoard.s"
-	@echo "... DataStructuresAndAlgorithms/Chapter3/main3.o"
-	@echo "... DataStructuresAndAlgorithms/Chapter3/main3.i"
-	@echo "... DataStructuresAndAlgorithms/Chapter3/main3.s"
+	@echo "... DataStructuresAndAlgorithms/Chapter3/InsertionSort/main.o"
+	@echo "... DataStructuresAndAlgorithms/Chapter3/InsertionSort/main.i"
+	@echo "... DataStructuresAndAlgorithms/Chapter3/InsertionSort/main.s"
+	@echo "... DataStructuresAndAlgorithms/Chapter3/Scoreboard/GameEntry.o"
+	@echo "... DataStructuresAndAlgorithms/Chapter3/Scoreboard/GameEntry.i"
+	@echo "... DataStructuresAndAlgorithms/Chapter3/Scoreboard/GameEntry.s"
+	@echo "... DataStructuresAndAlgorithms/Chapter3/Scoreboard/ScoreBoard.o"
+	@echo "... DataStructuresAndAlgorithms/Chapter3/Scoreboard/ScoreBoard.i"
+	@echo "... DataStructuresAndAlgorithms/Chapter3/Scoreboard/ScoreBoard.s"
+	@echo "... DataStructuresAndAlgorithms/Chapter3/Scoreboard/main3.o"
+	@echo "... DataStructuresAndAlgorithms/Chapter3/Scoreboard/main3.i"
+	@echo "... DataStructuresAndAlgorithms/Chapter3/Scoreboard/main3.s"
 	@echo "... Notes.o"
 	@echo "... Notes.i"
 	@echo "... Notes.s"

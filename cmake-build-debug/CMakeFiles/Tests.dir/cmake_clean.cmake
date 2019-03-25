@@ -1,10 +1,11 @@
 file(REMOVE_RECURSE
   "CMakeFiles/Tests.dir/main.cpp.o"
   "CMakeFiles/Tests.dir/SortZeros.cpp.o"
-  "CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/main3.cpp.o"
-  "CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/GameEntry.cpp.o"
-  "CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/ScoreBoard.cpp.o"
+  "CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/Scoreboard/main3.cpp.o"
+  "CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/Scoreboard/GameEntry.cpp.o"
+  "CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/Scoreboard/ScoreBoard.cpp.o"
   "CMakeFiles/Tests.dir/Notes.cpp.o"
+  "CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/InsertionSort/main.cpp.o"
   "Tests.pdb"
   "Tests"
 )

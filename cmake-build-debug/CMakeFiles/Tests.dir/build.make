@@ -83,44 +83,44 @@ CMakeFiles/Tests.dir/SortZeros.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Tests.dir/SortZeros.cpp.s"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/antonin/CLionProjects/Tests/Tests/TestingGrounds/SortZeros.cpp -o CMakeFiles/Tests.dir/SortZeros.cpp.s
 
-CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/main3.cpp.o: CMakeFiles/Tests.dir/flags.make
-CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/main3.cpp.o: ../DataStructuresAndAlgorithms/Chapter3/main3.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/antonin/CLionProjects/Tests/Tests/TestingGrounds/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/main3.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/main3.cpp.o -c /Users/antonin/CLionProjects/Tests/Tests/TestingGrounds/DataStructuresAndAlgorithms/Chapter3/main3.cpp
+CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/Scoreboard/main3.cpp.o: CMakeFiles/Tests.dir/flags.make
+CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/Scoreboard/main3.cpp.o: ../DataStructuresAndAlgorithms/Chapter3/Scoreboard/main3.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/antonin/CLionProjects/Tests/Tests/TestingGrounds/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/Scoreboard/main3.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/Scoreboard/main3.cpp.o -c /Users/antonin/CLionProjects/Tests/Tests/TestingGrounds/DataStructuresAndAlgorithms/Chapter3/Scoreboard/main3.cpp
 
-CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/main3.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/main3.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/antonin/CLionProjects/Tests/Tests/TestingGrounds/DataStructuresAndAlgorithms/Chapter3/main3.cpp > CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/main3.cpp.i
+CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/Scoreboard/main3.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/Scoreboard/main3.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/antonin/CLionProjects/Tests/Tests/TestingGrounds/DataStructuresAndAlgorithms/Chapter3/Scoreboard/main3.cpp > CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/Scoreboard/main3.cpp.i
 
-CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/main3.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/main3.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/antonin/CLionProjects/Tests/Tests/TestingGrounds/DataStructuresAndAlgorithms/Chapter3/main3.cpp -o CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/main3.cpp.s
+CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/Scoreboard/main3.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/Scoreboard/main3.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/antonin/CLionProjects/Tests/Tests/TestingGrounds/DataStructuresAndAlgorithms/Chapter3/Scoreboard/main3.cpp -o CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/Scoreboard/main3.cpp.s
 
-CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/GameEntry.cpp.o: CMakeFiles/Tests.dir/flags.make
-CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/GameEntry.cpp.o: ../DataStructuresAndAlgorithms/Chapter3/GameEntry.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/antonin/CLionProjects/Tests/Tests/TestingGrounds/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/GameEntry.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/GameEntry.cpp.o -c /Users/antonin/CLionProjects/Tests/Tests/TestingGrounds/DataStructuresAndAlgorithms/Chapter3/GameEntry.cpp
+CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/Scoreboard/GameEntry.cpp.o: CMakeFiles/Tests.dir/flags.make
+CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/Scoreboard/GameEntry.cpp.o: ../DataStructuresAndAlgorithms/Chapter3/Scoreboard/GameEntry.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/antonin/CLionProjects/Tests/Tests/TestingGrounds/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/Scoreboard/GameEntry.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/Scoreboard/GameEntry.cpp.o -c /Users/antonin/CLionProjects/Tests/Tests/TestingGrounds/DataStructuresAndAlgorithms/Chapter3/Scoreboard/GameEntry.cpp
 
-CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/GameEntry.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/GameEntry.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/antonin/CLionProjects/Tests/Tests/TestingGrounds/DataStructuresAndAlgorithms/Chapter3/GameEntry.cpp > CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/GameEntry.cpp.i
+CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/Scoreboard/GameEntry.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/Scoreboard/GameEntry.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/antonin/CLionProjects/Tests/Tests/TestingGrounds/DataStructuresAndAlgorithms/Chapter3/Scoreboard/GameEntry.cpp > CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/Scoreboard/GameEntry.cpp.i
 
-CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/GameEntry.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/GameEntry.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/antonin/CLionProjects/Tests/Tests/TestingGrounds/DataStructuresAndAlgorithms/Chapter3/GameEntry.cpp -o CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/GameEntry.cpp.s
+CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/Scoreboard/GameEntry.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/Scoreboard/GameEntry.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/antonin/CLionProjects/Tests/Tests/TestingGrounds/DataStructuresAndAlgorithms/Chapter3/Scoreboard/GameEntry.cpp -o CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/Scoreboard/GameEntry.cpp.s
 
-CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/ScoreBoard.cpp.o: CMakeFiles/Tests.dir/flags.make
-CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/ScoreBoard.cpp.o: ../DataStructuresAndAlgorithms/Chapter3/ScoreBoard.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/antonin/CLionProjects/Tests/Tests/TestingGrounds/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/ScoreBoard.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/ScoreBoard.cpp.o -c /Users/antonin/CLionProjects/Tests/Tests/TestingGrounds/DataStructuresAndAlgorithms/Chapter3/ScoreBoard.cpp
+CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/Scoreboard/ScoreBoard.cpp.o: CMakeFiles/Tests.dir/flags.make
+CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/Scoreboard/ScoreBoard.cpp.o: ../DataStructuresAndAlgorithms/Chapter3/Scoreboard/ScoreBoard.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/antonin/CLionProjects/Tests/Tests/TestingGrounds/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/Scoreboard/ScoreBoard.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/Scoreboard/ScoreBoard.cpp.o -c /Users/antonin/CLionProjects/Tests/Tests/TestingGrounds/DataStructuresAndAlgorithms/Chapter3/Scoreboard/ScoreBoard.cpp
 
-CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/ScoreBoard.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/ScoreBoard.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/antonin/CLionProjects/Tests/Tests/TestingGrounds/DataStructuresAndAlgorithms/Chapter3/ScoreBoard.cpp > CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/ScoreBoard.cpp.i
+CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/Scoreboard/ScoreBoard.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/Scoreboard/ScoreBoard.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/antonin/CLionProjects/Tests/Tests/TestingGrounds/DataStructuresAndAlgorithms/Chapter3/Scoreboard/ScoreBoard.cpp > CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/Scoreboard/ScoreBoard.cpp.i
 
-CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/ScoreBoard.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/ScoreBoard.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/antonin/CLionProjects/Tests/Tests/TestingGrounds/DataStructuresAndAlgorithms/Chapter3/ScoreBoard.cpp -o CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/ScoreBoard.cpp.s
+CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/Scoreboard/ScoreBoard.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/Scoreboard/ScoreBoard.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/antonin/CLionProjects/Tests/Tests/TestingGrounds/DataStructuresAndAlgorithms/Chapter3/Scoreboard/ScoreBoard.cpp -o CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/Scoreboard/ScoreBoard.cpp.s
 
 CMakeFiles/Tests.dir/Notes.cpp.o: CMakeFiles/Tests.dir/flags.make
 CMakeFiles/Tests.dir/Notes.cpp.o: ../Notes.cpp
@@ -135,27 +135,42 @@ CMakeFiles/Tests.dir/Notes.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Tests.dir/Notes.cpp.s"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/antonin/CLionProjects/Tests/Tests/TestingGrounds/Notes.cpp -o CMakeFiles/Tests.dir/Notes.cpp.s
 
+CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/InsertionSort/main.cpp.o: CMakeFiles/Tests.dir/flags.make
+CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/InsertionSort/main.cpp.o: ../DataStructuresAndAlgorithms/Chapter3/InsertionSort/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/antonin/CLionProjects/Tests/Tests/TestingGrounds/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/InsertionSort/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/InsertionSort/main.cpp.o -c /Users/antonin/CLionProjects/Tests/Tests/TestingGrounds/DataStructuresAndAlgorithms/Chapter3/InsertionSort/main.cpp
+
+CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/InsertionSort/main.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/InsertionSort/main.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/antonin/CLionProjects/Tests/Tests/TestingGrounds/DataStructuresAndAlgorithms/Chapter3/InsertionSort/main.cpp > CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/InsertionSort/main.cpp.i
+
+CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/InsertionSort/main.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/InsertionSort/main.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/antonin/CLionProjects/Tests/Tests/TestingGrounds/DataStructuresAndAlgorithms/Chapter3/InsertionSort/main.cpp -o CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/InsertionSort/main.cpp.s
+
 # Object files for target Tests
 Tests_OBJECTS = \
 "CMakeFiles/Tests.dir/main.cpp.o" \
 "CMakeFiles/Tests.dir/SortZeros.cpp.o" \
-"CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/main3.cpp.o" \
-"CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/GameEntry.cpp.o" \
-"CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/ScoreBoard.cpp.o" \
-"CMakeFiles/Tests.dir/Notes.cpp.o"
+"CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/Scoreboard/main3.cpp.o" \
+"CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/Scoreboard/GameEntry.cpp.o" \
+"CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/Scoreboard/ScoreBoard.cpp.o" \
+"CMakeFiles/Tests.dir/Notes.cpp.o" \
+"CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/InsertionSort/main.cpp.o"
 
 # External object files for target Tests
 Tests_EXTERNAL_OBJECTS =
 
 Tests: CMakeFiles/Tests.dir/main.cpp.o
 Tests: CMakeFiles/Tests.dir/SortZeros.cpp.o
-Tests: CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/main3.cpp.o
-Tests: CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/GameEntry.cpp.o
-Tests: CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/ScoreBoard.cpp.o
+Tests: CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/Scoreboard/main3.cpp.o
+Tests: CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/Scoreboard/GameEntry.cpp.o
+Tests: CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/Scoreboard/ScoreBoard.cpp.o
 Tests: CMakeFiles/Tests.dir/Notes.cpp.o
+Tests: CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/InsertionSort/main.cpp.o
 Tests: CMakeFiles/Tests.dir/build.make
 Tests: CMakeFiles/Tests.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/antonin/CLionProjects/Tests/Tests/TestingGrounds/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Linking CXX executable Tests"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/antonin/CLionProjects/Tests/Tests/TestingGrounds/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Linking CXX executable Tests"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/Tests.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

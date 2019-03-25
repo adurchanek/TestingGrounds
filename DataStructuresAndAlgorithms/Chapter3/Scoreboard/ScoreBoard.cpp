@@ -28,15 +28,12 @@ int ScoreBoard::getNumEntries()
 
 void ScoreBoard::printEntries()
 {
-
-
     int count  = 0;
     while(count < numEntries)
     {
         std::cout << "[ " << entries[count].getName() << ": " << entries[count].getScore() << " ]";
         count++;
     }
-
 
     while(count < maxEntries)
     {
@@ -128,13 +125,19 @@ GameEntry ScoreBoard::remove(int i)
 
 GameEntry ScoreBoard::getGameEntry(int index) const
 {
-    if(index > numEntries-1)
+    if(index > numEntries-1 || index < 0)
     {
         throw OutOfBoundsException("Out of bounds");
     }
 
     return entries[index];
 }
+
+GameEntry& ScoreBoard::operator[](int i)
+{
+    return entries[i];
+}
+
 
 
 

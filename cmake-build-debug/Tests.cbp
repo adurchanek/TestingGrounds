@@ -80,25 +80,31 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/antonin/CLionProjects/Tests/Tests/TestingGrounds/DataStructuresAndAlgorithms/Chapter3/GameEntry.cpp">
+		<Unit filename="/Users/antonin/CLionProjects/Tests/Tests/TestingGrounds/DataStructuresAndAlgorithms/Chapter3/InsertionSort/main.cpp">
 			<Option target="Tests"/>
 		</Unit>
-		<Unit filename="/Users/antonin/CLionProjects/Tests/Tests/TestingGrounds/DataStructuresAndAlgorithms/Chapter3/GameEntry.hpp">
+		<Unit filename="/Users/antonin/CLionProjects/Tests/Tests/TestingGrounds/DataStructuresAndAlgorithms/Chapter3/Scoreboard/GameEntry.cpp">
 			<Option target="Tests"/>
 		</Unit>
-		<Unit filename="/Users/antonin/CLionProjects/Tests/Tests/TestingGrounds/DataStructuresAndAlgorithms/Chapter3/OutOfBoundsException.hpp">
+		<Unit filename="/Users/antonin/CLionProjects/Tests/Tests/TestingGrounds/DataStructuresAndAlgorithms/Chapter3/Scoreboard/GameEntry.hpp">
 			<Option target="Tests"/>
 		</Unit>
-		<Unit filename="/Users/antonin/CLionProjects/Tests/Tests/TestingGrounds/DataStructuresAndAlgorithms/Chapter3/RuntimeException.hpp">
+		<Unit filename="/Users/antonin/CLionProjects/Tests/Tests/TestingGrounds/DataStructuresAndAlgorithms/Chapter3/Scoreboard/NoElementAtIndexException.hpp">
 			<Option target="Tests"/>
 		</Unit>
-		<Unit filename="/Users/antonin/CLionProjects/Tests/Tests/TestingGrounds/DataStructuresAndAlgorithms/Chapter3/ScoreBoard.cpp">
+		<Unit filename="/Users/antonin/CLionProjects/Tests/Tests/TestingGrounds/DataStructuresAndAlgorithms/Chapter3/Scoreboard/OutOfBoundsException.hpp">
 			<Option target="Tests"/>
 		</Unit>
-		<Unit filename="/Users/antonin/CLionProjects/Tests/Tests/TestingGrounds/DataStructuresAndAlgorithms/Chapter3/ScoreBoard.hpp">
+		<Unit filename="/Users/antonin/CLionProjects/Tests/Tests/TestingGrounds/DataStructuresAndAlgorithms/Chapter3/Scoreboard/RuntimeException.hpp">
 			<Option target="Tests"/>
 		</Unit>
-		<Unit filename="/Users/antonin/CLionProjects/Tests/Tests/TestingGrounds/DataStructuresAndAlgorithms/Chapter3/main3.cpp">
+		<Unit filename="/Users/antonin/CLionProjects/Tests/Tests/TestingGrounds/DataStructuresAndAlgorithms/Chapter3/Scoreboard/ScoreBoard.cpp">
+			<Option target="Tests"/>
+		</Unit>
+		<Unit filename="/Users/antonin/CLionProjects/Tests/Tests/TestingGrounds/DataStructuresAndAlgorithms/Chapter3/Scoreboard/ScoreBoard.hpp">
+			<Option target="Tests"/>
+		</Unit>
+		<Unit filename="/Users/antonin/CLionProjects/Tests/Tests/TestingGrounds/DataStructuresAndAlgorithms/Chapter3/Scoreboard/main3.cpp">
 			<Option target="Tests"/>
 		</Unit>
 		<Unit filename="/Users/antonin/CLionProjects/Tests/Tests/TestingGrounds/Notes.cpp">
