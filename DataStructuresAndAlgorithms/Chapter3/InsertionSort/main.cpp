@@ -21,22 +21,22 @@ void printArray(const T *A, int num);
 
 
 
-int main()
-
-{
-    const int NUM_ARRAY = 7;
-
-    double A[NUM_ARRAY] =  {1.2,5.1,3.1,8.6,6.5,4.3,5.2};
-
-    printArray(A, NUM_ARRAY);
-    std::cout << std::endl;
-
-    insertionSort(A,NUM_ARRAY);
-    std::cout << std::endl;
-    printArray(A, NUM_ARRAY);
-
-    return 0;
-}
+//int main()
+//
+//{
+//    const int NUM_ARRAY = 7;
+//
+//    double A[NUM_ARRAY] =  {1.2,5.1,3.1,8.6,6.5,4.3,5.2};
+//
+//    printArray(A, NUM_ARRAY);
+//    std::cout << std::endl;
+//
+//    insertionSort(A,NUM_ARRAY);
+//    std::cout << std::endl;
+//    printArray(A, NUM_ARRAY);
+//
+//    return 0;
+//}
 
 template <typename T>
 void insertionSort(T *A, int num)

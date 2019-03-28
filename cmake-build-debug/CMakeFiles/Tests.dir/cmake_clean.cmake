@@ -6,6 +6,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/Scoreboard/ScoreBoard.cpp.o"
   "CMakeFiles/Tests.dir/Notes.cpp.o"
   "CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/InsertionSort/main.cpp.o"
+  "CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/LinkedLists/LinkedList.cpp.o"
+  "CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/LinkedLists/main.cpp.o"
   "Tests.pdb"
   "Tests"
 )

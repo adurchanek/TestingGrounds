@@ -3,6 +3,11 @@
 
 CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/InsertionSort/main.cpp.o: ../DataStructuresAndAlgorithms/Chapter3/InsertionSort/main.cpp
 
+CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/LinkedLists/LinkedList.cpp.o: ../DataStructuresAndAlgorithms/Chapter3/LinkedLists/LinkedList.cpp
+CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/LinkedLists/LinkedList.cpp.o: ../DataStructuresAndAlgorithms/Chapter3/LinkedLists/LinkedList.hpp
+
+CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/LinkedLists/main.cpp.o: ../DataStructuresAndAlgorithms/Chapter3/LinkedLists/main.cpp
+
 CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/Scoreboard/GameEntry.cpp.o: ../DataStructuresAndAlgorithms/Chapter3/Scoreboard/GameEntry.cpp
 CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/Scoreboard/GameEntry.cpp.o: ../DataStructuresAndAlgorithms/Chapter3/Scoreboard/GameEntry.hpp
 

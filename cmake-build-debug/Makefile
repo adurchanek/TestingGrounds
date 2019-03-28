@@ -150,6 +150,60 @@ DataStructuresAndAlgorithms/Chapter3/InsertionSort/main.cpp.s:
 	$(MAKE) -f CMakeFiles/Tests.dir/build.make CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/InsertionSort/main.cpp.s
 .PHONY : DataStructuresAndAlgorithms/Chapter3/InsertionSort/main.cpp.s
 
+DataStructuresAndAlgorithms/Chapter3/LinkedLists/LinkedList.o: DataStructuresAndAlgorithms/Chapter3/LinkedLists/LinkedList.cpp.o
+
+.PHONY : DataStructuresAndAlgorithms/Chapter3/LinkedLists/LinkedList.o
+
+# target to build an object file
+DataStructuresAndAlgorithms/Chapter3/LinkedLists/LinkedList.cpp.o:
+	$(MAKE) -f CMakeFiles/Tests.dir/build.make CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/LinkedLists/LinkedList.cpp.o
+.PHONY : DataStructuresAndAlgorithms/Chapter3/LinkedLists/LinkedList.cpp.o
+
+DataStructuresAndAlgorithms/Chapter3/LinkedLists/LinkedList.i: DataStructuresAndAlgorithms/Chapter3/LinkedLists/LinkedList.cpp.i
+
+.PHONY : DataStructuresAndAlgorithms/Chapter3/LinkedLists/LinkedList.i
+
+# target to preprocess a source file
+DataStructuresAndAlgorithms/Chapter3/LinkedLists/LinkedList.cpp.i:
+	$(MAKE) -f CMakeFiles/Tests.dir/build.make CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/LinkedLists/LinkedList.cpp.i
+.PHONY : DataStructuresAndAlgorithms/Chapter3/LinkedLists/LinkedList.cpp.i
+
+DataStructuresAndAlgorithms/Chapter3/LinkedLists/LinkedList.s: DataStructuresAndAlgorithms/Chapter3/LinkedLists/LinkedList.cpp.s
+
+.PHONY : DataStructuresAndAlgorithms/Chapter3/LinkedLists/LinkedList.s
+
+# target to generate assembly for a file
+DataStructuresAndAlgorithms/Chapter3/LinkedLists/LinkedList.cpp.s:
+	$(MAKE) -f CMakeFiles/Tests.dir/build.make CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/LinkedLists/LinkedList.cpp.s
+.PHONY : DataStructuresAndAlgorithms/Chapter3/LinkedLists/LinkedList.cpp.s
+
+DataStructuresAndAlgorithms/Chapter3/LinkedLists/main.o: DataStructuresAndAlgorithms/Chapter3/LinkedLists/main.cpp.o
+
+.PHONY : DataStructuresAndAlgorithms/Chapter3/LinkedLists/main.o
+
+# target to build an object file
+DataStructuresAndAlgorithms/Chapter3/LinkedLists/main.cpp.o:
+	$(MAKE) -f CMakeFiles/Tests.dir/build.make CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/LinkedLists/main.cpp.o
+.PHONY : DataStructuresAndAlgorithms/Chapter3/LinkedLists/main.cpp.o
+
+DataStructuresAndAlgorithms/Chapter3/LinkedLists/main.i: DataStructuresAndAlgorithms/Chapter3/LinkedLists/main.cpp.i
+
+.PHONY : DataStructuresAndAlgorithms/Chapter3/LinkedLists/main.i
+
+# target to preprocess a source file
+DataStructuresAndAlgorithms/Chapter3/LinkedLists/main.cpp.i:
+	$(MAKE) -f CMakeFiles/Tests.dir/build.make CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/LinkedLists/main.cpp.i
+.PHONY : DataStructuresAndAlgorithms/Chapter3/LinkedLists/main.cpp.i
+
+DataStructuresAndAlgorithms/Chapter3/LinkedLists/main.s: DataStructuresAndAlgorithms/Chapter3/LinkedLists/main.cpp.s
+
+.PHONY : DataStructuresAndAlgorithms/Chapter3/LinkedLists/main.s
+
+# target to generate assembly for a file
+DataStructuresAndAlgorithms/Chapter3/LinkedLists/main.cpp.s:
+	$(MAKE) -f CMakeFiles/Tests.dir/build.make CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/LinkedLists/main.cpp.s
+.PHONY : DataStructuresAndAlgorithms/Chapter3/LinkedLists/main.cpp.s
+
 DataStructuresAndAlgorithms/Chapter3/Scoreboard/GameEntry.o: DataStructuresAndAlgorithms/Chapter3/Scoreboard/GameEntry.cpp.o
 
 .PHONY : DataStructuresAndAlgorithms/Chapter3/Scoreboard/GameEntry.o
@@ -324,6 +378,12 @@ help:
 	@echo "... DataStructuresAndAlgorithms/Chapter3/InsertionSort/main.o"
 	@echo "... DataStructuresAndAlgorithms/Chapter3/InsertionSort/main.i"
 	@echo "... DataStructuresAndAlgorithms/Chapter3/InsertionSort/main.s"
+	@echo "... DataStructuresAndAlgorithms/Chapter3/LinkedLists/LinkedList.o"
+	@echo "... DataStructuresAndAlgorithms/Chapter3/LinkedLists/LinkedList.i"
+	@echo "... DataStructuresAndAlgorithms/Chapter3/LinkedLists/LinkedList.s"
+	@echo "... DataStructuresAndAlgorithms/Chapter3/LinkedLists/main.o"
+	@echo "... DataStructuresAndAlgorithms/Chapter3/LinkedLists/main.i"
+	@echo "... DataStructuresAndAlgorithms/Chapter3/LinkedLists/main.s"
 	@echo "... DataStructuresAndAlgorithms/Chapter3/Scoreboard/GameEntry.o"
 	@echo "... DataStructuresAndAlgorithms/Chapter3/Scoreboard/GameEntry.i"
 	@echo "... DataStructuresAndAlgorithms/Chapter3/Scoreboard/GameEntry.s"
