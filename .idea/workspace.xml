@@ -12,20 +12,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b6a43f63-3442-4ac3-ba88-652c0ea89beb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/DataStructuresAndAlgorithms/Chapter3/LinkedLists/LinkedList.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataStructuresAndAlgorithms/Chapter3/LinkedLists/LinkedList.hpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataStructuresAndAlgorithms/Chapter3/LinkedLists/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructuresAndAlgorithms/Chapter3/LinkedLists/EmptyLinkedListException.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructuresAndAlgorithms/Chapter3/LinkedLists/RuntimeException.hpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructuresAndAlgorithms/Chapter3/InsertionSort/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructuresAndAlgorithms/Chapter3/InsertionSort/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructuresAndAlgorithms/Chapter3/LinkedLists/LinkedList.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructuresAndAlgorithms/Chapter3/LinkedLists/LinkedList.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructuresAndAlgorithms/Chapter3/LinkedLists/LinkedList.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructuresAndAlgorithms/Chapter3/LinkedLists/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructuresAndAlgorithms/Chapter3/LinkedLists/main.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Tests.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Tests.dir/CXX.includecache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/InsertionSort/main.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/InsertionSort/main.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/LinkedLists/LinkedList.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/LinkedLists/main.cpp.o" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Tests.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Tests.dir/DependInfo.cmake" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Tests.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Tests.dir/build.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Tests.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Tests.dir/cmake_clean.cmake" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Tests.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Tests.dir/depend.internal" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Tests.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Tests.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Tests.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Tests.dir/flags.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Tests.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Tests.dir/link.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Tests.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Tests.dir/progress.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
@@ -43,53 +46,13 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DataStructuresAndAlgorithms/Chapter3/Scoreboard/main3.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="219">
-              <caret line="18" column="55" selection-start-line="18" selection-start-column="55" selection-end-line="18" selection-end-column="55" />
-              <folding>
-                <element signature="e#54#78#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DataStructuresAndAlgorithms/Chapter3/InsertionSort/main.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="245">
-              <caret line="23" selection-start-line="23" selection-start-column="2" selection-end-line="38" selection-end-column="3" />
-              <folding>
-                <element signature="e#83#95#0" expanded="true" />
-                <element signature="e#141#153#0" expanded="true" />
-                <element signature="e#617#629#0" expanded="true" />
-                <element signature="e#1195#1207#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/DataStructuresAndAlgorithms/Chapter3/LinkedLists/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DataStructuresAndAlgorithms/Chapter3/LinkedLists/LinkedList.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="27" column="5" lean-forward="true" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+            <state relative-caret-position="153">
+              <caret line="11" selection-start-line="11" selection-start-column="2" selection-end-line="41" selection-end-column="3" />
               <folding>
-                <element signature="e#90#102#0" expanded="true" />
-                <element signature="e#145#157#0" expanded="true" />
-                <element signature="e#230#242#0" expanded="true" />
-                <element signature="e#308#320#0" expanded="true" />
-                <element signature="e#533#545#0" expanded="true" />
+                <element signature="e#55#74#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -98,32 +61,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/DataStructuresAndAlgorithms/Chapter3/LinkedLists/LinkedList.hpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+            <state relative-caret-position="1155">
+              <caret line="77" selection-start-line="77" selection-end-line="77" />
               <folding>
+                <element signature="e#114#133#0" expanded="true" />
                 <element signature="e#123#135#0" expanded="true" />
+                <element signature="e#436#448#0" expanded="true" />
+                <element signature="e#510#522#0" expanded="true" />
+                <element signature="e#622#634#0" expanded="true" />
+                <element signature="e#795#807#0" expanded="true" />
+                <element signature="e#879#891#0" expanded="true" />
+                <element signature="e#1092#1104#0" expanded="true" />
+                <element signature="e#1342#1354#0" expanded="true" />
+                <element signature="e#1510#1522#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DataStructuresAndAlgorithms/Chapter3/Scoreboard/ScoreBoard.hpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
-              <folding>
-                <element signature="e#113#137#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DataStructuresAndAlgorithms/Chapter3/Scoreboard/ScoreBoard.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="573">
-              <caret line="136" column="1" selection-start-line="136" selection-start-column="1" selection-end-line="136" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -138,10 +89,40 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DataStructuresAndAlgorithms/Chapter3/Scoreboard/GameEntry.hpp">
+        <entry file="file://$PROJECT_DIR$/DataStructuresAndAlgorithms/Chapter3/Scoreboard/RuntimeException.hpp">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="300">
-              <caret line="20" column="31" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
+              <caret line="20" column="31" selection-end-line="29" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DataStructuresAndAlgorithms/Chapter3/Scoreboard/ScoreBoard.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="108" column="12" selection-start-line="108" selection-start-column="8" selection-end-line="108" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DataStructuresAndAlgorithms/Chapter3/Scoreboard/ScoreBoard.hpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="24" column="45" selection-start-line="24" selection-start-column="45" selection-end-line="24" selection-end-column="45" />
+              <folding>
+                <element signature="e#113#137#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DataStructuresAndAlgorithms/Chapter3/LinkedLists/RuntimeException.hpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="20" column="44" selection-start-line="20" selection-start-column="44" selection-end-line="20" selection-end-column="44" />
             </state>
           </provider>
         </entry>
@@ -149,8 +130,29 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/DataStructuresAndAlgorithms/Chapter3/Scoreboard/OutOfBoundsException.hpp">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" selection-end-line="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DataStructuresAndAlgorithms/Chapter3/LinkedLists/EmptyLinkedListException.hpp">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="210">
-              <caret line="14" selection-end-line="19" />
+              <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DataStructuresAndAlgorithms/Chapter3/Scoreboard/main3.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" column="55" selection-start-line="18" selection-start-column="55" selection-end-line="18" selection-end-column="55" />
+              <folding>
+                <element signature="e#54#78#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -161,6 +163,9 @@
     <findStrings>
       <find>game</find>
       <find>cout</find>
+      <find>~</find>
+      <find>thro</find>
+      <find>front</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -183,14 +188,18 @@
         <option value="$PROJECT_DIR$/DataStructuresAndAlgorithms/Chapter3/Scoreboard/ScoreBoard.hpp" />
         <option value="$PROJECT_DIR$/DataStructuresAndAlgorithms/Chapter3/Scoreboard/main3.cpp" />
         <option value="$PROJECT_DIR$/DataStructuresAndAlgorithms/Chapter3/InsertionSort/main.cpp" />
-        <option value="$PROJECT_DIR$/DataStructuresAndAlgorithms/Chapter3/LinkedLists/main.cpp" />
-        <option value="$PROJECT_DIR$/DataStructuresAndAlgorithms/Chapter3/LinkedLists/LinkedList.hpp" />
         <option value="$PROJECT_DIR$/DataStructuresAndAlgorithms/Chapter3/LinkedLists/LinkedList.cpp" />
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/DataStructuresAndAlgorithms/Chapter3/LinkedLists/EmptyLinkedListException.hpp" />
+        <option value="$PROJECT_DIR$/DataStructuresAndAlgorithms/Chapter3/LinkedLists/RuntimeException.hpp" />
+        <option value="$PROJECT_DIR$/DataStructuresAndAlgorithms/Chapter3/LinkedLists/LinkedList.hpp" />
+        <option value="$PROJECT_DIR$/DataStructuresAndAlgorithms/Chapter3/LinkedLists/main.cpp" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="width" value="1920" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="367" />
+    <option name="width" value="1553" />
     <option name="height" value="1200" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -217,6 +226,13 @@
               <item name="TestingGrounds" type="462c0819:PsiDirectoryNode" />
               <item name="DataStructuresAndAlgorithms" type="462c0819:PsiDirectoryNode" />
               <item name="Chapter3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Tests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestingGrounds" type="462c0819:PsiDirectoryNode" />
+              <item name="DataStructuresAndAlgorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter3" type="462c0819:PsiDirectoryNode" />
+              <item name="InsertionSort" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Tests" type="b2602c69:ProjectViewProjectNode" />
@@ -276,10 +292,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27840000" />
+    <option name="totallyTimeSpent" value="33157000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1920" height="1200" extended-state="1" />
+    <frame x="0" y="0" width="1920" height="1200" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24973376" />
@@ -322,20 +338,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DataStructuresAndAlgorithms/Chapter3/Scoreboard/RuntimeException.hpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="7" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DataStructuresAndAlgorithms/Chapter3/Scoreboard/OutOfBoundsException.hpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/DataStructuresAndAlgorithms/Chapter3/NoElementAtIndexException.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -343,44 +345,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DataStructuresAndAlgorithms/Chapter3/Scoreboard/NoElementAtIndexException.hpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/DataStructuresAndAlgorithms/Chapter3/Scoreboard/GameEntry.hpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="20" column="31" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DataStructuresAndAlgorithms/Chapter3/Scoreboard/ScoreBoard.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="573">
-          <caret line="136" column="1" selection-start-line="136" selection-start-column="1" selection-end-line="136" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DataStructuresAndAlgorithms/Chapter3/Scoreboard/ScoreBoard.hpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-          <folding>
-            <element signature="e#113#137#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DataStructuresAndAlgorithms/Chapter3/Scoreboard/main3.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="219">
-          <caret line="18" column="55" selection-start-line="18" selection-start-column="55" selection-end-line="18" selection-end-column="55" />
-          <folding>
-            <element signature="e#54#78#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -397,34 +365,108 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DataStructuresAndAlgorithms/Chapter3/LinkedLists/LinkedList.hpp">
+    <entry file="file://$PROJECT_DIR$/DataStructuresAndAlgorithms/Chapter3/LinkedLists/LinkedList.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
-          <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="50" selection-start-line="5" selection-start-column="50" selection-end-line="5" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructuresAndAlgorithms/Chapter3/Scoreboard/NoElementAtIndexException.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructuresAndAlgorithms/Chapter3/Scoreboard/OutOfBoundsException.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructuresAndAlgorithms/Chapter3/Scoreboard/RuntimeException.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="31" selection-end-line="29" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructuresAndAlgorithms/Chapter3/Scoreboard/ScoreBoard.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="45" selection-start-line="24" selection-start-column="45" selection-end-line="24" selection-end-column="45" />
           <folding>
-            <element signature="e#123#135#0" expanded="true" />
+            <element signature="e#113#137#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DataStructuresAndAlgorithms/Chapter3/LinkedLists/LinkedList.cpp">
+    <entry file="file://$PROJECT_DIR$/DataStructuresAndAlgorithms/Chapter3/Scoreboard/ScoreBoard.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="5" lean-forward="true" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+        <state relative-caret-position="221">
+          <caret line="108" column="12" selection-start-line="108" selection-start-column="8" selection-end-line="108" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructuresAndAlgorithms/Chapter3/Scoreboard/main3.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="55" selection-start-line="18" selection-start-column="55" selection-end-line="18" selection-end-column="55" />
           <folding>
-            <element signature="e#90#102#0" expanded="true" />
-            <element signature="e#145#157#0" expanded="true" />
-            <element signature="e#230#242#0" expanded="true" />
-            <element signature="e#308#320#0" expanded="true" />
-            <element signature="e#533#545#0" expanded="true" />
+            <element signature="e#54#78#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructuresAndAlgorithms/Chapter3/LinkedLists/EmptyLinkedListException.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructuresAndAlgorithms/Chapter3/LinkedLists/RuntimeException.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="44" selection-start-line="20" selection-start-column="44" selection-end-line="20" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructuresAndAlgorithms/Chapter3/LinkedLists/LinkedList.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1155">
+          <caret line="77" selection-start-line="77" selection-end-line="77" />
+          <folding>
+            <element signature="e#114#133#0" expanded="true" />
+            <element signature="e#123#135#0" expanded="true" />
+            <element signature="e#436#448#0" expanded="true" />
+            <element signature="e#510#522#0" expanded="true" />
+            <element signature="e#622#634#0" expanded="true" />
+            <element signature="e#795#807#0" expanded="true" />
+            <element signature="e#879#891#0" expanded="true" />
+            <element signature="e#1092#1104#0" expanded="true" />
+            <element signature="e#1342#1354#0" expanded="true" />
+            <element signature="e#1510#1522#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/DataStructuresAndAlgorithms/Chapter3/LinkedLists/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        <state relative-caret-position="153">
+          <caret line="11" selection-start-line="11" selection-start-column="2" selection-end-line="41" selection-end-column="3" />
+          <folding>
+            <element signature="e#55#74#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

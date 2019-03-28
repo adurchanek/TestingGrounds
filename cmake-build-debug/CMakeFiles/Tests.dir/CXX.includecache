@@ -6,11 +6,25 @@
 
 #IncludeRegexTransform: 
 
-/Users/antonin/CLionProjects/Tests/Tests/TestingGrounds/DataStructuresAndAlgorithms/Chapter3/LinkedLists/LinkedList.cpp
-LinkedList.hpp
-/Users/antonin/CLionProjects/Tests/Tests/TestingGrounds/DataStructuresAndAlgorithms/Chapter3/LinkedLists/LinkedList.hpp
+/Users/antonin/CLionProjects/Tests/Tests/TestingGrounds/DataStructuresAndAlgorithms/Chapter3/LinkedLists/EmptyLinkedListException.hpp
+RuntimeException.hpp
+/Users/antonin/CLionProjects/Tests/Tests/TestingGrounds/DataStructuresAndAlgorithms/Chapter3/LinkedLists/RuntimeException.hpp
 
 /Users/antonin/CLionProjects/Tests/Tests/TestingGrounds/DataStructuresAndAlgorithms/Chapter3/LinkedLists/LinkedList.hpp
 iostream
+-
+EmptyLinkedListException.hpp
+/Users/antonin/CLionProjects/Tests/Tests/TestingGrounds/DataStructuresAndAlgorithms/Chapter3/LinkedLists/EmptyLinkedListException.hpp
+
+/Users/antonin/CLionProjects/Tests/Tests/TestingGrounds/DataStructuresAndAlgorithms/Chapter3/LinkedLists/RuntimeException.hpp
+string
+-
+
+/Users/antonin/CLionProjects/Tests/Tests/TestingGrounds/DataStructuresAndAlgorithms/Chapter3/LinkedLists/main.cpp
+iostream
+-
+LinkedList.hpp
+/Users/antonin/CLionProjects/Tests/Tests/TestingGrounds/DataStructuresAndAlgorithms/Chapter3/LinkedLists/LinkedList.hpp
+string
 -
 

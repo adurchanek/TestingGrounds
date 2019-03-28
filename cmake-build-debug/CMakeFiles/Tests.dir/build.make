@@ -148,22 +148,9 @@ CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/InsertionSort/main.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/InsertionSort/main.cpp.s"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/antonin/CLionProjects/Tests/Tests/TestingGrounds/DataStructuresAndAlgorithms/Chapter3/InsertionSort/main.cpp -o CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/InsertionSort/main.cpp.s
 
-CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/LinkedLists/LinkedList.cpp.o: CMakeFiles/Tests.dir/flags.make
-CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/LinkedLists/LinkedList.cpp.o: ../DataStructuresAndAlgorithms/Chapter3/LinkedLists/LinkedList.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/antonin/CLionProjects/Tests/Tests/TestingGrounds/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/LinkedLists/LinkedList.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/LinkedLists/LinkedList.cpp.o -c /Users/antonin/CLionProjects/Tests/Tests/TestingGrounds/DataStructuresAndAlgorithms/Chapter3/LinkedLists/LinkedList.cpp
-
-CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/LinkedLists/LinkedList.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/LinkedLists/LinkedList.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/antonin/CLionProjects/Tests/Tests/TestingGrounds/DataStructuresAndAlgorithms/Chapter3/LinkedLists/LinkedList.cpp > CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/LinkedLists/LinkedList.cpp.i
-
-CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/LinkedLists/LinkedList.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/LinkedLists/LinkedList.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/antonin/CLionProjects/Tests/Tests/TestingGrounds/DataStructuresAndAlgorithms/Chapter3/LinkedLists/LinkedList.cpp -o CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/LinkedLists/LinkedList.cpp.s
-
 CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/LinkedLists/main.cpp.o: CMakeFiles/Tests.dir/flags.make
 CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/LinkedLists/main.cpp.o: ../DataStructuresAndAlgorithms/Chapter3/LinkedLists/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/antonin/CLionProjects/Tests/Tests/TestingGrounds/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/LinkedLists/main.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/antonin/CLionProjects/Tests/Tests/TestingGrounds/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/LinkedLists/main.cpp.o"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/LinkedLists/main.cpp.o -c /Users/antonin/CLionProjects/Tests/Tests/TestingGrounds/DataStructuresAndAlgorithms/Chapter3/LinkedLists/main.cpp
 
 CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/LinkedLists/main.cpp.i: cmake_force
@@ -183,7 +170,6 @@ Tests_OBJECTS = \
 "CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/Scoreboard/ScoreBoard.cpp.o" \
 "CMakeFiles/Tests.dir/Notes.cpp.o" \
 "CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/InsertionSort/main.cpp.o" \
-"CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/LinkedLists/LinkedList.cpp.o" \
 "CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/LinkedLists/main.cpp.o"
 
 # External object files for target Tests
@@ -196,11 +182,10 @@ Tests: CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/Scoreboard/Game
 Tests: CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/Scoreboard/ScoreBoard.cpp.o
 Tests: CMakeFiles/Tests.dir/Notes.cpp.o
 Tests: CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/InsertionSort/main.cpp.o
-Tests: CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/LinkedLists/LinkedList.cpp.o
 Tests: CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/LinkedLists/main.cpp.o
 Tests: CMakeFiles/Tests.dir/build.make
 Tests: CMakeFiles/Tests.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/antonin/CLionProjects/Tests/Tests/TestingGrounds/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Linking CXX executable Tests"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/antonin/CLionProjects/Tests/Tests/TestingGrounds/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Linking CXX executable Tests"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/Tests.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
