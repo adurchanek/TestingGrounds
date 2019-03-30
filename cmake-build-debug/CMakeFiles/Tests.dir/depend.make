@@ -3,6 +3,11 @@
 
 CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/InsertionSort/main.cpp.o: ../DataStructuresAndAlgorithms/Chapter3/InsertionSort/main.cpp
 
+CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/LinkedLists/DoublyLinkedLists/main.cpp.o: ../DataStructuresAndAlgorithms/Chapter3/LinkedLists/DoublyLinkedLists/DoublyLinkedList.hpp
+CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/LinkedLists/DoublyLinkedLists/main.cpp.o: ../DataStructuresAndAlgorithms/Chapter3/LinkedLists/DoublyLinkedLists/main.cpp
+CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/LinkedLists/DoublyLinkedLists/main.cpp.o: ../DataStructuresAndAlgorithms/Chapter3/LinkedLists/EmptyLinkedListException.hpp
+CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/LinkedLists/DoublyLinkedLists/main.cpp.o: ../DataStructuresAndAlgorithms/Chapter3/LinkedLists/RuntimeException.hpp
+
 CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/LinkedLists/main.cpp.o: ../DataStructuresAndAlgorithms/Chapter3/LinkedLists/EmptyLinkedListException.hpp
 CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/LinkedLists/main.cpp.o: ../DataStructuresAndAlgorithms/Chapter3/LinkedLists/LinkedList.hpp
 CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/LinkedLists/main.cpp.o: ../DataStructuresAndAlgorithms/Chapter3/LinkedLists/RuntimeException.hpp

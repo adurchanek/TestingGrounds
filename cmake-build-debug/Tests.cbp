@@ -85,6 +85,12 @@
 		<Unit filename="/Users/antonin/CLionProjects/Tests/Tests/TestingGrounds/DataStructuresAndAlgorithms/Chapter3/InsertionSort/main.cpp">
 			<Option target="Tests"/>
 		</Unit>
+		<Unit filename="/Users/antonin/CLionProjects/Tests/Tests/TestingGrounds/DataStructuresAndAlgorithms/Chapter3/LinkedLists/DoublyLinkedLists/DoublyLinkedList.hpp">
+			<Option target="Tests"/>
+		</Unit>
+		<Unit filename="/Users/antonin/CLionProjects/Tests/Tests/TestingGrounds/DataStructuresAndAlgorithms/Chapter3/LinkedLists/DoublyLinkedLists/main.cpp">
+			<Option target="Tests"/>
+		</Unit>
 		<Unit filename="/Users/antonin/CLionProjects/Tests/Tests/TestingGrounds/DataStructuresAndAlgorithms/Chapter3/LinkedLists/EmptyLinkedListException.hpp">
 			<Option target="Tests"/>
 		</Unit>

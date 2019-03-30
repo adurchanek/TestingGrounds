@@ -7,6 +7,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/Tests.dir/Notes.cpp.o"
   "CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/InsertionSort/main.cpp.o"
   "CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/LinkedLists/main.cpp.o"
+  "CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/LinkedLists/DoublyLinkedLists/main.cpp.o"
   "Tests.pdb"
   "Tests"
 )

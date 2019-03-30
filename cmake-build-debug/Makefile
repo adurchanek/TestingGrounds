@@ -150,6 +150,33 @@ DataStructuresAndAlgorithms/Chapter3/InsertionSort/main.cpp.s:
 	$(MAKE) -f CMakeFiles/Tests.dir/build.make CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/InsertionSort/main.cpp.s
 .PHONY : DataStructuresAndAlgorithms/Chapter3/InsertionSort/main.cpp.s
 
+DataStructuresAndAlgorithms/Chapter3/LinkedLists/DoublyLinkedLists/main.o: DataStructuresAndAlgorithms/Chapter3/LinkedLists/DoublyLinkedLists/main.cpp.o
+
+.PHONY : DataStructuresAndAlgorithms/Chapter3/LinkedLists/DoublyLinkedLists/main.o
+
+# target to build an object file
+DataStructuresAndAlgorithms/Chapter3/LinkedLists/DoublyLinkedLists/main.cpp.o:
+	$(MAKE) -f CMakeFiles/Tests.dir/build.make CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/LinkedLists/DoublyLinkedLists/main.cpp.o
+.PHONY : DataStructuresAndAlgorithms/Chapter3/LinkedLists/DoublyLinkedLists/main.cpp.o
+
+DataStructuresAndAlgorithms/Chapter3/LinkedLists/DoublyLinkedLists/main.i: DataStructuresAndAlgorithms/Chapter3/LinkedLists/DoublyLinkedLists/main.cpp.i
+
+.PHONY : DataStructuresAndAlgorithms/Chapter3/LinkedLists/DoublyLinkedLists/main.i
+
+# target to preprocess a source file
+DataStructuresAndAlgorithms/Chapter3/LinkedLists/DoublyLinkedLists/main.cpp.i:
+	$(MAKE) -f CMakeFiles/Tests.dir/build.make CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/LinkedLists/DoublyLinkedLists/main.cpp.i
+.PHONY : DataStructuresAndAlgorithms/Chapter3/LinkedLists/DoublyLinkedLists/main.cpp.i
+
+DataStructuresAndAlgorithms/Chapter3/LinkedLists/DoublyLinkedLists/main.s: DataStructuresAndAlgorithms/Chapter3/LinkedLists/DoublyLinkedLists/main.cpp.s
+
+.PHONY : DataStructuresAndAlgorithms/Chapter3/LinkedLists/DoublyLinkedLists/main.s
+
+# target to generate assembly for a file
+DataStructuresAndAlgorithms/Chapter3/LinkedLists/DoublyLinkedLists/main.cpp.s:
+	$(MAKE) -f CMakeFiles/Tests.dir/build.make CMakeFiles/Tests.dir/DataStructuresAndAlgorithms/Chapter3/LinkedLists/DoublyLinkedLists/main.cpp.s
+.PHONY : DataStructuresAndAlgorithms/Chapter3/LinkedLists/DoublyLinkedLists/main.cpp.s
+
 DataStructuresAndAlgorithms/Chapter3/LinkedLists/main.o: DataStructuresAndAlgorithms/Chapter3/LinkedLists/main.cpp.o
 
 .PHONY : DataStructuresAndAlgorithms/Chapter3/LinkedLists/main.o
@@ -351,6 +378,9 @@ help:
 	@echo "... DataStructuresAndAlgorithms/Chapter3/InsertionSort/main.o"
 	@echo "... DataStructuresAndAlgorithms/Chapter3/InsertionSort/main.i"
 	@echo "... DataStructuresAndAlgorithms/Chapter3/InsertionSort/main.s"
+	@echo "... DataStructuresAndAlgorithms/Chapter3/LinkedLists/DoublyLinkedLists/main.o"
+	@echo "... DataStructuresAndAlgorithms/Chapter3/LinkedLists/DoublyLinkedLists/main.i"
+	@echo "... DataStructuresAndAlgorithms/Chapter3/LinkedLists/DoublyLinkedLists/main.s"
 	@echo "... DataStructuresAndAlgorithms/Chapter3/LinkedLists/main.o"
 	@echo "... DataStructuresAndAlgorithms/Chapter3/LinkedLists/main.i"
 	@echo "... DataStructuresAndAlgorithms/Chapter3/LinkedLists/main.s"
