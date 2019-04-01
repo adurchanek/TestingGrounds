@@ -12,20 +12,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b6a43f63-3442-4ac3-ba88-652c0ea89beb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/DataStructuresAndAlgorithms/Chapter3/LinkedLists/DoublyLinkedLists/DoublyLinkedList.hpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataStructuresAndAlgorithms/Chapter3/LinkedLists/DoublyLinkedLists/main.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Tests.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Tests.dir/DependInfo.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Tests.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Tests.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Tests.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Tests.dir/cmake_clean.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Tests.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Tests.dir/link.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Tests.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Tests.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Tests" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Tests.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Tests.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructuresAndAlgorithms/Chapter3/LinkedLists/DoublyLinkedLists/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructuresAndAlgorithms/Chapter3/LinkedLists/DoublyLinkedLists/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructuresAndAlgorithms/Chapter3/LinkedLists/LinkedList.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructuresAndAlgorithms/Chapter3/LinkedLists/SinglyLinkedLists/LinkedList.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructuresAndAlgorithms/Chapter3/LinkedLists/SinglyLinkedLists/LinkedList.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructuresAndAlgorithms/Chapter3/LinkedLists/SinglyLinkedLists/LinkedList.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructuresAndAlgorithms/Chapter3/LinkedLists/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructuresAndAlgorithms/Chapter3/LinkedLists/SinglyLinkedLists/main.cpp" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -38,10 +30,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DataStructuresAndAlgorithms/Chapter3/LinkedLists/main.cpp">
+        <entry file="file://$PROJECT_DIR$/DataStructuresAndAlgorithms/Chapter3/LinkedLists/SinglyLinkedLists/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="63">
-              <caret line="5" selection-start-line="5" selection-end-line="41" selection-end-column="3" />
+            <state relative-caret-position="135">
+              <caret line="9" selection-start-line="9" selection-end-line="14" selection-end-column="5" />
               <folding>
                 <element signature="e#55#74#0" expanded="true" />
               </folding>
@@ -52,8 +44,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/DataStructuresAndAlgorithms/Chapter3/LinkedLists/DoublyLinkedLists/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" selection-start-line="12" selection-start-column="2" selection-end-line="40" selection-end-column="3" />
+            <state relative-caret-position="63">
+              <caret line="11" column="28" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
               <folding>
                 <element signature="e#56#75#0" expanded="true" />
               </folding>
@@ -90,8 +82,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/DataStructuresAndAlgorithms/Chapter3/InsertionSort/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="470">
-              <caret line="38" column="3" lean-forward="true" selection-start-line="38" selection-start-column="3" selection-end-line="38" selection-end-column="3" />
+            <state relative-caret-position="80">
+              <caret line="12" selection-start-line="12" selection-end-line="17" selection-end-column="5" />
               <folding>
                 <element signature="e#83#95#0" expanded="true" />
                 <element signature="e#141#153#0" expanded="true" />
@@ -119,7 +111,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DataStructuresAndAlgorithms/Chapter3/LinkedLists/LinkedList.hpp">
+        <entry file="file://$PROJECT_DIR$/DataStructuresAndAlgorithms/Chapter3/LinkedLists/SinglyLinkedLists/LinkedList.hpp">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
               <caret line="8" selection-start-line="8" selection-end-line="128" />
@@ -211,13 +203,13 @@
         <option value="$PROJECT_DIR$/DataStructuresAndAlgorithms/Chapter3/LinkedLists/EmptyLinkedListException.hpp" />
         <option value="$PROJECT_DIR$/DataStructuresAndAlgorithms/Chapter3/LinkedLists/RuntimeException.hpp" />
         <option value="$PROJECT_DIR$/DataStructuresAndAlgorithms/Chapter3/LinkedLists/LinkedList.hpp" />
-        <option value="$PROJECT_DIR$/DataStructuresAndAlgorithms/Chapter3/LinkedLists/main.cpp" />
         <option value="$PROJECT_DIR$/DataStructuresAndAlgorithms/Chapter3/LinkedLists/DoublyLinkedLists/DoublyLinkedList.hpp" />
+        <option value="$PROJECT_DIR$/DataStructuresAndAlgorithms/Chapter3/LinkedLists/main.cpp" />
         <option value="$PROJECT_DIR$/DataStructuresAndAlgorithms/Chapter3/LinkedLists/DoublyLinkedLists/main.cpp" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="width" value="1920" />
     <option name="height" value="1200" />
   </component>
@@ -251,22 +243,7 @@
               <item name="TestingGrounds" type="462c0819:PsiDirectoryNode" />
               <item name="DataStructuresAndAlgorithms" type="462c0819:PsiDirectoryNode" />
               <item name="Chapter3" type="462c0819:PsiDirectoryNode" />
-              <item name="InsertionSort" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Tests" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TestingGrounds" type="462c0819:PsiDirectoryNode" />
-              <item name="DataStructuresAndAlgorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="Chapter3" type="462c0819:PsiDirectoryNode" />
               <item name="LinkedLists" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Tests" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TestingGrounds" type="462c0819:PsiDirectoryNode" />
-              <item name="DataStructuresAndAlgorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="Chapter3" type="462c0819:PsiDirectoryNode" />
-              <item name="LinkedLists" type="462c0819:PsiDirectoryNode" />
-              <item name="DoublyLinkedLists" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -282,6 +259,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/DataStructuresAndAlgorithms/Chapter3/LinkedLists/SinglyLinkedLists" />
       <recent name="$PROJECT_DIR$/DataStructuresAndAlgorithms/Chapter3/LinkedLists" />
       <recent name="$PROJECT_DIR$/DataStructuresAndAlgorithms/Chapter3/Scoreboard" />
     </key>
@@ -320,11 +298,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43097000" />
+    <option name="totallyTimeSpent" value="47052000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1200" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16134185" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -442,7 +419,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DataStructuresAndAlgorithms/Chapter3/LinkedLists/LinkedList.hpp">
+    <entry file="file://$PROJECT_DIR$/DataStructuresAndAlgorithms/Chapter3/LinkedLists/SinglyLinkedLists/LinkedList.hpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" selection-start-line="8" selection-end-line="128" />
@@ -461,16 +438,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DataStructuresAndAlgorithms/Chapter3/LinkedLists/main.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="5" selection-start-line="5" selection-end-line="41" selection-end-column="3" />
-          <folding>
-            <element signature="e#55#74#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/DataStructuresAndAlgorithms/Chapter3/Scoreboard/RuntimeException.hpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
@@ -482,17 +449,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DataStructuresAndAlgorithms/Chapter3/InsertionSort/main.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="470">
-          <caret line="38" column="3" lean-forward="true" selection-start-line="38" selection-start-column="3" selection-end-line="38" selection-end-column="3" />
-          <folding>
-            <element signature="e#83#95#0" expanded="true" />
-            <element signature="e#141#153#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -520,10 +476,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructuresAndAlgorithms/Chapter3/InsertionSort/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="12" selection-start-line="12" selection-end-line="17" selection-end-column="5" />
+          <folding>
+            <element signature="e#83#95#0" expanded="true" />
+            <element signature="e#141#153#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructuresAndAlgorithms/Chapter3/LinkedLists/SinglyLinkedLists/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" selection-start-line="9" selection-end-line="14" selection-end-column="5" />
+          <folding>
+            <element signature="e#55#74#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/DataStructuresAndAlgorithms/Chapter3/LinkedLists/DoublyLinkedLists/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" selection-start-line="12" selection-start-column="2" selection-end-line="40" selection-end-column="3" />
+        <state relative-caret-position="63">
+          <caret line="11" column="28" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
           <folding>
             <element signature="e#56#75#0" expanded="true" />
           </folding>

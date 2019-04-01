@@ -7,7 +7,7 @@
 #define TESTS_LINKEDLIST_HPP
 
 #include <iostream>
-#include "EmptyLinkedListException.hpp"
+#include "../EmptyLinkedListException.hpp"
 
 template <typename T>
 class LinkedList

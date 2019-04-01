@@ -8,6 +8,13 @@
 #include "DoublyLinkedList.hpp"
 #include <string>
 
+/* Example worked out from a data structures book
+ * Main goal: to implement a doubly linked list
+ *
+ *
+ * Secondary goal: improve C++ knowledge. Work on function templates
+ * */
+
 
 
 //int main()
